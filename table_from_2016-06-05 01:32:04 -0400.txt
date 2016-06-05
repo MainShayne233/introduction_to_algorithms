@@ -1,8 +1,0 @@
-           lg n  sqrt(n)  n     n lg n  n^2  n^3  2^n   n!    
-1 second   a     b        c     d       e    ref  fr    fre   
-1 minute   fre   fre      fre   fre     efr  fer  fer   fer   
-1 hour     f     erf      erwf  werf    er   fer  fer   f     
-1 day      erf   erf      er    fer     f    erf  er    fer   
-1 month    f     erf      erf   er      fer  f    erf   er    
-1 year     f     erf      er    fer     fer  f    erf   erf   
-1 century  er    fer      fer   f       erf  er   ferw  ferw  

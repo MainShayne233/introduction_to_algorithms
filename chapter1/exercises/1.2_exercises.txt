@@ -1,0 +1,23 @@
+1.2-1 Give an example of an application that requires algorithmic content at the
+application level, and discuss the function of the algorithms involved.
+
+An app I made once solved quadratic equations and produced the exact, most
+reduced form. Doing so required a pretty extensive algorithm that involved many
+input cases. The function of the algorithm was to calculate the solutions to the
+equation, and then proceed to correctly simplify the solution to the most
+reduced form.
+
+1.2-2 Suppose we are comparing implementation of insertion sort and merge sort
+on the same machine. For inputs of size n, insertion sort runs in 8n^2 steps,
+while merge sort runs in 64n lg n steps. For which values of n does insertion
+sort beat merge sort?
+
+Via brute force, we can see that insertion sort will beat merge sort for n of
+the following set: {n <- I | x > 1 && x < 44} (see solution_script)
+
+1.2-3 What is the smallest value of n such that an algorithm whose running time
+is 100n^2 runs faster than an algorithm whose running time is 2^n on the same
+machine?
+
+Via brute force, we can see that the smallest value for n that the 100n^2
+algorithm will beat the 2^n is n = 15 (see solution_script)
